@@ -22,7 +22,7 @@ font-weight:bold">
 
 > 연락처: junyup1234@naver.com
 
-> Github : <a href="https://github.com/juyup2">https://github.com/juyup2</a>
+> Github : <a href="https://github.com/junyup2">https://github.com/junyup2</a>
 
 
 ## Education
@@ -64,4 +64,3 @@ font-weight:bold">
 
 ## Patents
 ---
-
