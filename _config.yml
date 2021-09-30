@@ -134,6 +134,9 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:junyup1234@naver.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://codegear-archive.tistory.com/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
