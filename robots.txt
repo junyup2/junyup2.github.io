@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://junyup2.github.io/sitemap.xml
