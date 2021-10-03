@@ -17,8 +17,8 @@ main:
   - title: "Category"
     url: "/categories/"
   - title: "ML/DL"
-    url: "/ml_dl/"
+    url: "/learning/"
   - title: "Code"
-    url: "/code/"
+    url: "/codes/"
   - title: "Tags"
     url: /tags/
